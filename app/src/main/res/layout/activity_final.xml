@@ -23,5 +23,6 @@
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="152dp"
         android:onClick="cerrar_sesion"
-        android:text="@string/Sesion" />
+        android:text="@string/Sesion"
+        android:background="@drawable/boton_redondo"/>
 </RelativeLayout>
